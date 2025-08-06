@@ -2,4 +2,6 @@
 By [Davey Knific](https://www.daveyknific.com)
 
 ## Current Examples:
-- Draggable entity for touchscreen mobile
+- EnhancedTouchSupport - Drag items on touchscreen
+- Frame Rate - Change camera FPS to whatever you want
+- Lifecycle of a Monobehaviour Script
